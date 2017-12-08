@@ -3,4 +3,4 @@ function randImg() {
   document.body.style.backgroundImage = `url(${imgIndex}.jpg)`;
 }
 
-setInterval(randImg, 5000);
+setInterval(randImg, 2000);
